@@ -4,6 +4,7 @@
 PhD Candidate, UNSW Sydney
 
 Email: d.d.nguyen AT unsw DOT edu DOT au
+
 Research interests: generative modelling, representational learning, cyber deception
 
 ## Posts
