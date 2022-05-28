@@ -3,7 +3,7 @@ PhD Student, Computer Science and Engineering
 
 Email: d.d.nguyen AT unsw DOT edu DOT au
 
-Research Interests: Generative modelling, representational learning, cyber deception
+Research interests: generative modelling, representational learning, cyber deception
 
 ## Posts
 
