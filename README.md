@@ -1,4 +1,4 @@
-# David D. Nguyen
+## About me
 PhD Student, Computer Science and Engineering, UNSW Sydney
 
 Contact: d.d.nguyen AT unsw DOT edu DOT au
