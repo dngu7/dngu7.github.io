@@ -1,7 +1,7 @@
 ## About me
 ![Me](/docs/assets/images/me.png)
 
-PhD Student, Computer Science and Engineering
+PhD Candidate, UNSW Sydney
 
 Email: d.d.nguyen AT unsw DOT edu DOT au
 
