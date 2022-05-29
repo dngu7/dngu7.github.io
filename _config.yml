@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David D. Nguyen | UNSW Sydney"
+title                    : "News"
 title_separator          : "-"
 name                     : &name "David D. Nguyen"
 description              : &description "about me"
@@ -176,8 +176,8 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
+   output: true
+   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -215,9 +215,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -233,17 +233,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Sydney/Australia # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
