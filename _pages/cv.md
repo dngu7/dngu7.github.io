@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Science and Business, University of Technology Sydney, 2013
+* M.S. in Information Technology (Artificial Intelligence), University of New South Wales, 2020
+* Ph.D in Computer Science, University of New South Wales, Current
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Industry experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Developer Intern - Machine Learning Infrastructure, Atlassian, 2020
+* Commercial Manager - BT Financial, Westpac, 2017
+* Sales Excellence Manager, Microsoft, 2016
+* Commercial Analyst, Coca Cola Amatil, 2014
+
+Academic experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Python
+* Pytorch
+  
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+   -->
+
+  
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
