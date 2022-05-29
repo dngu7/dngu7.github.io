@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "David D. Nguyen"
   avatar           : "me.png"
-  bio              : "PhD Student at UNSW Sydney. We use generative models to protect computer systems."
+  bio              : "PhD Student at School of Computer Science and Engineering, UNSW Sydney. MUFC bandwagoner."
   location         : "Sydney, Australia"
   employer         : 
   pubmed           : 
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-   output: true
+   output: false
    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
