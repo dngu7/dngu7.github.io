@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "News"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "David D. Nguyen"
 description              : &description "about me"

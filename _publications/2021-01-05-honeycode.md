@@ -6,4 +6,6 @@ date: 2021-01-05
 venue: 'HICSS 2020'
 paperurl: 'https://scholarspace.manoa.hawaii.edu/items/8da0094d-52ee-4dcf-a626-28e903efb2cf'
 ---
+Author list: David D. Nguyen, David Liebowitz, Surya Nepal, Salil Kanhere
 
+Check out the paper [here](https://scholarspace.manoa.hawaii.edu/items/8da0094d-52ee-4dcf-a626-28e903efb2cf).

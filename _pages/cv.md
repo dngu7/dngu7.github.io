@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Science and Business, University of Technology Sydney, 2013
 * M.S. in Information Technology (Artificial Intelligence), University of New South Wales, 2020
-* Ph.D in Computer Science, University of New South Wales, Current
+* Ph.D in Computer Science, University of New South Wales, 2023 (expected)
 
 Publications
 ======
