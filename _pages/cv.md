@@ -37,8 +37,7 @@ Academic experience
 
 Skills
 ======
-* Python
-* Pytorch
+I primarily code in Python and Pytorch. I used Tensorflow before 2.0.
   
 <!-- Talks
 ======
