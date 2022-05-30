@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 I am a PhD student advised by Salil Kanhere (UNSW), Surya Nepal (CSIRO) and David Liebowitz (Penten). 
-Our research group develops machine learning and statistical techniques that improve cyber deception - a novel cyber defensive strategy used to protect computer systems. 
-My specific research area focuses on generative modelling of decoy documents, primarily used to detect cyber attacks.
-More broadly, I am interested in understanding how to develop intelligence in machines.
+Our research group develops machine learning and statistical techniques that improve cyber deception - a novel cyber defensive strategy. 
+My specific project focuses on generative modelling of decoy documents, primarily used to detect attackers that have compromised computer systems.
+I am particularly interested in understanding how to develop natural intelligence in computers. 
 
 # Recent news
 
