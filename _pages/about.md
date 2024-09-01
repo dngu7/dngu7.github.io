@@ -14,7 +14,7 @@ I have published peer-reviewed papers on various generative modeling problems, i
 
 Currently I am at CSIRO's Data61, Australia's National Research Laboratory, specializing in machine learning problems within the cyber security domain. 
 My recent research interests are denoising diffusion models, density estimation, adversarial purification, adversarial robustness and text-to-speech recognition.
-If you are interested in collaborating or a PhD research position at CSIRO, please feel free to contact me at (d DOT nguyen AT csiro DOT au).
+If you are interested in collaborating or a PhD research position at CSIRO, please feel free to contact me at (d.nguyen AT csiro.au).
 
 Recent News
 ======
