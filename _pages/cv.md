@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biotechnology and Business (Accounting), University of Technology Sydney, 2013
-* M.S. in Information Technology (Artificial Intelligence), University of New South Wales, 2020
 * Ph.D in Computer Science, University of New South Wales, 2023
+* M.S. in Information Technology (Artificial Intelligence), University of New South Wales, 2020
+* B.S. in Biotechnology and Business, University of Technology Sydney, 2013
 
 Work Experience
 ======
-* Postdoctoral Researcher - AI & Cybersecurity, CSIRO's Data61, Current
+* Postdoctoral Researcher - AI & Cybersecurity, CSIRO's Data61, 2023-Current
 * PhD Researcher - AI & Cybersecurity, Cybersecurity Cooperative Research Centre, 2020-2023
 * Teaching Assistant - AI & Recommendation Systems, UNSW, 2021-2024
 * Developer Intern - Machine Learning, Atlassian, 2020
@@ -25,17 +25,21 @@ Work Experience
 * Sales Excellence Manager, Microsoft, 2016-2017
 * Commercial Analyst, Coca Cola Amatil, 2014-2016
 
-Expertise
+Research Experience
 ======
-* Deep generative models (Variational Autoencoders, Denoising Diffusion Models)
-* Autoregressive models (Transformers, LSTM, RNN, Markov Chains)
-* Computer vision 
+* Machine learning
+  * Multi-output regression
+  * Density estimation
+* Deep generative models 
+  * Variational Autoencoders
+  * Denoising Diffusion Models
+  * Autoregressive models (Transformers, LSTM, RNN, Markov Chains)
+* Applications
+  * Cyberdeception
   * Image generation
   * Layout generation
   * Multi-modal representations (Text-to-image)
-* Machine learning security
   * Adversarial robustness
-  * Certified robustness
 
 Publications
 ======
