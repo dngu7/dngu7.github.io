@@ -18,7 +18,7 @@ Education
 Work Experience
 ======
 * Postdoctoral Researcher - AI & Cybersecurity, CSIRO's Data61, Current
-* PhD Researcher - AI & Cybersecurity, Cybersecurity Cooperative Research Centre, 2023
+* PhD Researcher - AI & Cybersecurity, Cybersecurity Cooperative Research Centre, 2020-2023
 * Teaching Assistant - AI & Recommendation Systems, UNSW, 2021-2024
 * Developer Intern - Machine Learning, Atlassian, 2020
 * Commercial Manager, Westpac, 2017-2020
