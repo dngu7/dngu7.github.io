@@ -19,8 +19,9 @@ Work Experience
 ======
 * Postdoctoral Researcher - AI & Cybersecurity, CSIRO's Data61, 2023-Current
 * PhD Researcher - AI & Cybersecurity, Cybersecurity Cooperative Research Centre, 2020-2023
-* Teaching Assistant - AI & Recommendation Systems, UNSW, 2021-2024
-* Developer Intern - Machine Learning, Atlassian, 2020
+* Teaching Assistant - Recommendation Systems, UNSW, 2024
+* Teaching Assistant - Artificial Intelligence, UNSW, 2021-2023
+* Developer Intern - Machine Learning Systems, Atlassian, 2020
 * Commercial Manager, Westpac, 2017-2020
 * Sales Excellence Manager, Microsoft, 2016-2017
 * Commercial Analyst, Coca Cola Amatil, 2014-2016
@@ -33,7 +34,7 @@ Research Experience
   * Deep generative models 
     * Variational Autoencoders
     * Denoising Diffusion Models
-    * Autoregressive models (Transformers, LSTM, RNN, Markov Chains)
+    * Autoregressive models 
 * Applications
   * Cyberdeception
   * Image generation

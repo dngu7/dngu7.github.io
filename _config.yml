@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "David D. Nguyen"
   avatar           : "me.png"
-  bio              : "Developing generative models to protect computer systems. Disheartened MUFC fan."
+  bio              : "Developing generative models to protect computers. A MUFC fan in despair."
   location         : "Sydney, Australia"
   employer         : CSIRO's Data61
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XHHGB_IAAAAJ&hl=en&oi=sra"
-  email            : "d.nguyen AT csiro DOT DOT au"
+  email            : "d.nguyen AT csiro DOT au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
