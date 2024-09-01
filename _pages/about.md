@@ -21,9 +21,13 @@ Recent News
 
 ### 10/12/23 - Paper accepted into AAAI 2024.
 Our latest paper introduces Multiple Hypothesis Dropout (MH-Dropout), a novel variant of dropout that converts a single-output function into a multi-output function. Check out our paper [here](https://ojs.aaai.org/index.php/AAAI/article/view/29358) and code [here](https://github.com/dngu7/multiple-hypothesis-dropout)!
-This technique scales up our previous work by employing subnetworks from a base neural network. 
 
-![layoutpreview](/images/mhd-image-samples.pdf)
+The diagram below depicts a Mixture of Multiple Output functions (MoM).
+
+![diagram](/images/hierarchydiagram.png)
+
+This novel technique scales up our previous work by employing subnetworks from a base neural network. 
+
 
 ### 22/5/22 - Best paper award from UNSW.
 Very honoured to have won the Norman Foo Memorial Best PhD Paper Award from [UNSW](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering/student-life/prizes-awards)! 
