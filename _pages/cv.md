@@ -30,14 +30,16 @@ Research Experience
 * Machine learning
   * Multi-output regression
   * Density estimation
-* Deep generative models 
-  * Variational Autoencoders
-  * Denoising Diffusion Models
-  * Autoregressive models (Transformers, LSTM, RNN, Markov Chains)
+  * Deep generative models 
+    * Variational Autoencoders
+    * Denoising Diffusion Models
+    * Autoregressive models (Transformers, LSTM, RNN, Markov Chains)
 * Applications
   * Cyberdeception
   * Image generation
   * Layout generation
+  * Code generation
+  * Chart generation
   * Multi-modal representations (Text-to-image)
   * Adversarial robustness
 
