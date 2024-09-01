@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,14 +21,13 @@ Recent News
 
 ### 10/12/23 - Paper accepted into AAAI 2024.
 Our latest paper introduces Multiple Hypothesis Dropout (MH-Dropout), a novel variant of dropout that converts a single-output function into a multi-output function. Check out our paper [here](https://ojs.aaai.org/index.php/AAAI/article/view/29358) and code [here](https://github.com/dngu7/multiple-hypothesis-dropout)!
-
-The diagram below depicts a Mixture of Multiple Output functions (MoM).
+The illustration below depicts a *Mixture of Multiple Output functions (MoM)*.
 
 ![diagram](/images/hierarchydiagram.png)
 
-This novel technique scales up our previous work by employing subnetworks from a base neural network. 
-Using this unique mechanism, we are able to modify VQGAN to generate higher quality images using a significantly smaller codebook. 
-The images below were generating using only $4--64$ codebook entries.
+This novel technique employ subnetworks from a base neural network to estimate the parameters of multi-modal Gaussian distributions. 
+Using this technique, we propose an improved VQGAN that generates higher quality images using a significantly smaller codebook. 
+The samples below were generating using only 4-64 codebook entries.
 
 ![mhdimage](/images/mhd-images.png)
 
