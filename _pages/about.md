@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am David D. Nguyen, a researcher in artificial intelligence and machine learning, with a particular focus on generative models and their applications in cybersecurity. 
-My PhD was completed at the University of New South Wales under the guidance of Salil Kanhere (UNSW), Surya Nepal (CSIRO) and David Liebowitz (Penten).
+My PhD was completed at the University of New South Wales under the guidance of Professor Salil Kanhere (UNSW), Dr. Surya Nepal (CSIRO) and Dr. David Liebowitz (Penten).
 I have published peer-reviewed papers on various generative modeling problems, including images, layouts, software code, and documents, in top computer science venues such as AAAI, ACM Multimedia, and HICSS."
 
 Currently I am at CSIRO's Data61, Australia's National Research Laboratory, specializing in machine learning problems within the cyber security domain. 
