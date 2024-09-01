@@ -27,7 +27,10 @@ The diagram below depicts a Mixture of Multiple Output functions (MoM).
 ![diagram](/images/hierarchydiagram.png)
 
 This novel technique scales up our previous work by employing subnetworks from a base neural network. 
-Using this unique property, we are able to modify VQGAN to generate higher quality images using significantly fewer latent codebook vectors. 
+Using this unique mechanism, we are able to modify VQGAN to generate higher quality images using a significantly smaller codebook. 
+The images below were generating using only $4--64$ codebook entries.
+
+![mhdimage](/images/mhd-images.png)
 
 
 ### 22/5/22 - Best paper award from UNSW.
