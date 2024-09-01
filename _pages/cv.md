@@ -11,41 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Biotechnology and Business (Accounting), University of Technology Sydney, 2013
+* M.S. in Information Technology (Artificial Intelligence), University of New South Wales, 2020
+* Ph.D in Computer Science, University of New South Wales, 2023
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Researcher - AI & Cybersecurity, CSIRO's Data61, Current
+* PhD Researcher - AI & Cybersecurity, Cybersecurity Cooperative Research Centre, 2023
+* Teaching Assistant - AI & Recommendation Systems, UNSW, 2021-2024
+* Developer Intern - Machine Learning, Atlassian, 2020
+* Commercial Manager, Westpac, 2017-2020
+* Sales Excellence Manager, Microsoft, 2016-2017
+* Commercial Analyst, Coca Cola Amatil, 2014-2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Expertise
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep generative models (Variational Autoencoders, Denoising Diffusion Models)
+* Autoregressive models (Transformers, LSTM, RNN, Markov Chains)
+* Computer vision 
+  * Image generation
+  * Layout generation
+  * Multi-modal representations (Text-to-image)
+* Machine learning security
+  * Adversarial robustness
+  * Certified robustness
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+Skills
+======
+* Python
+* Pytorch Distributed
+* Deepspeed
+* Docker & Apptainer
+* PostgreSQL
+* Slurm
+* Linux
+
   
 Talks
 ======
@@ -61,4 +69,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for ACM MM (2024), ICDCS (2024) and ACM MSWiM (2024).
+* PC Member for PST (2024) and BuildSec (2024)
